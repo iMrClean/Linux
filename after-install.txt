@@ -1,7 +1,5 @@
 Java
-Intellij Idea
-Docker
+Intellij IDEA
 DBeaver
 Postman
 Telegram
-
